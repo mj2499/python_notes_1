@@ -15,13 +15,13 @@ software development,\
 mathematics,\
 system scripting.
 
-Python Dates
+Python important Dates
 ----------------------------------------------
 Python Developed / Implementation: Dec 1989\
 Python / Python1 : Feb 20th 1991\
 Python2: Oct 16th 2000\
 PSF: Python Software Foundation on March 6th 2001\
-Python3: Dec 3rd 2008\
+Python3: Dec 3rd 2008
  
 Why Python?
 ------------------------------------------------
@@ -41,7 +41,7 @@ Ubuntu\
 Kali Linux\
 Solaris\
 Raspberry\
-Parrot OS\
+Parrot OS
 
  pyhton popular frameworks and libraries
  ----------------------------------------------------------
