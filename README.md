@@ -49,7 +49,9 @@ Parrot OS
  mathematics: numpy,pands.\
  machine learing: pytorch,scikit-learn,tnsorflow.
 
-How to Check Which Version of Python Being used or installed on PC/Laptop.\![pyphot](https://user-images.githubusercontent.com/104981585/167264857-88acbeba-be0c-466d-813b-56ca02bc6ff5.png)
+How to Check Which Version of Python Being used or installed on PC/Laptop.
+---------------------------------------
+(https://user-images.githubusercontent.com/104981585/167264857-88acbeba-be0c-466d-813b-56ca02bc6ff5.png)
 ![Screenshot 2022-05-07 223324](https://user-images.githubusercontent.com/104981585/167264909-ec051e68-ad83-409b-bd26-41419480a41c.png)
 
 
